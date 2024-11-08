@@ -14,7 +14,8 @@ module.exports = {
     extend: {
       colors: {
         'main': '#F44335',
-        'lemon': '#00FF84'
+        'lemon': '#00FF84',
+        'nevi-blue': '#2D3142',
       },
     },
   },
