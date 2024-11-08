@@ -17,6 +17,9 @@ module.exports = {
         'lemon': '#00FF84',
         'nevi-blue': '#2D3142',
       },
+      backgroundImage: { 
+        'group-study':"url('/images/group-study.png')"
+      }
     },
   },
   plugins: [],
